@@ -1,0 +1,5 @@
+project: ropr
+target: ropr
+
+cmds:
+  - cmd: /ropr
